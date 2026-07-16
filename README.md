@@ -1,37 +1,90 @@
-<h1 align="center">Hi 👋, I'm Prince Reshav</h1>
-<h3 align="center">Java Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princereshav&label=Profile%20views&color=0e75b6&style=flat" alt="princereshav" /> </p>
+# Hi, I'm Prince Reshav 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princereshav" alt="princereshav" /></a> </p>
+### Backend Engineer · Java / Spring Boot · Distributed Systems
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I build backend systems for lending, onboarding, and enterprise platforms —
+and I like reading about how banks and fintechs engineer their ledgers, payments,
+and risk pipelines under the hood.
 
-- 🔭 I’m currently working on **Chatbot**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-reshav)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prince.reshav.5555@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/user4357E)
 
-- 🌱 I’m currently learning **Machine Learning, Java**
+</div>
 
-- 👨‍💻 All of my projects are available at [github.com/PrinceReshav](github.com/PrinceReshav)
+<br>
 
-- 💬 Ask me about **Java, Saleforce**
+## About Me
 
-- 📫 How to reach me **prince.reshav.5555@gmail.com**
+- 🏦 Currently building a **Loan Origination & CRM platform** — onboarding, KYC, credit decisioning, and rule-based workflow orchestration
+- 🧩 Comfortable across the backend stack: **Java, Spring Boot, Microservices, Kafka, Redis, REST APIs**
+- 🖥️ Also work with **React.js** to ship features end-to-end with frontend teams
+- 💸 Genuinely interested in **fintech and financial infrastructure** — how core banking, payments, and risk systems are designed for scale, auditability, and correctness
+- 🌱 Currently sharpening: system design, event-driven architecture, and distributed data consistency
+- ⚡ Ask me about: Java, Spring Security, workflow engines, or backend system design
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prince-reshav-3036421a9/](https://www.linkedin.com/in/prince-reshav-3036421a9/)
+<br>
 
-- ⚡ Fun fact **I am an adaptive learner**
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-reshav-3036421a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-reshav-3036421a9" height="30" width="40" /></a>
-</p>
+**Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princereshav&show_icons=true&locale=en&layout=compact" alt="princereshav" /></p>
+**Backend**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princereshav&show_icons=true&locale=en" alt="princereshav" /></p>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princereshav&" alt="princereshav" /></p>
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+<br>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏦 [**CRM & Loan Origination Platform**](https://github.com/PrinceReshav/LOS) | Modular lending platform: KYC, credit assessment, decisioning, and configurable workflow orchestration | `Java` `Spring Boot` `MySQL` `React.js` |
+| 💳 [**GeoWallet**](https://github.com/PrinceReshav/GeoWallet) | Spring Boot wallet service built from scratch | `Java` `Spring Boot` |
+| 🏥 [**Patient Management System**](https://github.com/PrinceReshav/patient-management) | Microservices healthcare platform with Kafka-driven async processing and Redis caching | `Java` `Kafka` `Redis` `Docker` |
+| 🎬 [**Netflix Clone — Backend**](https://github.com/PrinceReshav/NetflixClone-Backend) | Backend services for a streaming-platform clone | `Java` `Spring Boot` |
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceReshav&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceReshav&layout=compact&hide_border=true" height="165" alt="languages graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+📫 <b>prince.reshav.5555@gmail.com</b> &nbsp;|&nbsp; 💼 <a href="https://linkedin.com/in/prince-reshav">LinkedIn</a> &nbsp;|&nbsp; 🧠 <a href="https://leetcode.com/u/user4357E">LeetCode</a>
+
+</div>
