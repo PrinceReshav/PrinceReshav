@@ -158,10 +158,10 @@ Domain Driven Design
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=PrinceReshav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=PrinceReshav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceReshav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -169,7 +169,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceReshav
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/PrinceReshav/PrinceReshav/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
