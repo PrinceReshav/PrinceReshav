@@ -1,6 +1,12 @@
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1c1c1c,100:2b2b2b&text=PRINCE%20RESHAV&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Fintech%20Systems%20%7C%20Distributed%20Architecture&descAlignY=60&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=AAAAAA&center=true&vCenter=true&width=1000&lines=BOOTING+FINTECH+SYSTEMS...;INITIALIZING+WORKFLOW+ENGINE...;KAFKA+ONLINE...;REDIS+ONLINE...;SPRING+BOOT+ONLINE...;SYSTEM+READY."/>
 
 </div>
 
@@ -152,11 +158,19 @@ Domain Driven Design
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrinceReshav&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=PrinceReshav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceReshav&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceReshav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
