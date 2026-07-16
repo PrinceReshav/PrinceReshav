@@ -158,11 +158,13 @@ Domain Driven Design
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=PrinceReshav&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceReshav&theme=github_dark"/>
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceReshav&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceReshav&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceReshav&theme=github_dark"/>
 
 </div>
 
